@@ -2,7 +2,7 @@ Documentation for recompiling Chatterino 2 with a different port on macOS
 
 
 Dependancies: 
-boost 1.69 https://homebrew.bintray.com/bottles/boost-1.69.0.mojave.bottle.tar.gz
+boost 1.69 (needs to be this version) https://homebrew.bintray.com/bottles/boost-1.69.0.mojave.bottle.tar.gz
 openssl
 qt
 
