@@ -1,4 +1,5 @@
 Documentation for recompiling Chatterino 2 with a different port on macOS
+Note: If these instructions are not working and/or you found a fix for macOS Catalina, leave an issue and I will update the instructions.
 
 
 Dependancies: 
